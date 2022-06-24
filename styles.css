@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Montserrat'; /*a name to be used later*/
+    src: url('https://fonts.google.com/specimen/Montserrat'); /*URL to font*/
+
+    font-family: 'Fraunces'; /*a name to be used later*/
+    src: url('https://fonts.google.com/specimen/Frauncest'); /*URL to font*/
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
